@@ -17,5 +17,4 @@ for number in numbers:
         not_primes.append(number)
 
 print(f"Простые числа: {primes}")
-
 print(f"Не простые числа: {not_primes}")
